@@ -37,7 +37,7 @@ export default function Home() {
               Votacions segures i senzilles
             </h1>
             <p className="text-xl text-gray-600 mb-8">
-              Crea enquestes personalitzades de forma gratïuta
+              Crea enquestes personalitzades de forma gratuïta
             </p>
             <Link
               to="/create"
